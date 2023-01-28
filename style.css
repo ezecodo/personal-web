@@ -29,3 +29,8 @@ h2 {
 .parrafo_suelto {
   border-style: none;
 }
+
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+}
