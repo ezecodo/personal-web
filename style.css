@@ -25,3 +25,7 @@ h2 {
   flex-direction: row;
   flex-shrink: inherit;
 }
+
+.parrafo_suelto {
+  border-style: none;
+}
